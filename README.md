@@ -1,6 +1,6 @@
 # Hi there 👋 # 
 ---
-### about-me ###
+* ### about-me ###
 my name is **Jonatas** but my nickname is jhony, that's what almost everyone calls me ☺️  
 I was born in 1990...
 loving husband and doting father of 2 boys.
@@ -11,12 +11,25 @@ I'm a programming lover, and I have a special interest in the field of artificia
 
 
 ---
-### tecnologies and tools ###  
+* ### tecnologies and tools ###  
 
-<img src="https://image.flaticon.com/icons/png/128/2809/2809425.png"><a>Linguages<a/>  
+<img src="https://image.flaticon.com/icons/png/128/2809/2809425.png" width="20" heigth="20"> <a> Linguages<a/>  
 
 
 ---
+* ### tecnologies and tools ###  
+
+<img src="https://image.flaticon.com/icons/png/128/2809/2809425.png" width="20" heigth="20"> <a> Linguages<a/>  
+
+
+---
+* ### tecnologies and tools ###  
+
+<img src="https://image.flaticon.com/icons/png/128/2809/2809425.png" width="20" heigth="20"> <a> Linguages<a/>  
+
+
+---
+
 
 
 
