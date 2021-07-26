@@ -23,7 +23,10 @@ I'm a programming lover, and I have a special interest in the field of artificia
 
 
 ---
-* ### more ###  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonySmithSilva&show_icons=true&theme=radical)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonySmithSilva&show_icons=true&theme=radical&card_width=450)
+
+
 
   
 
