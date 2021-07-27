@@ -6,7 +6,7 @@ I was born in 1990...
 loving husband and doting father of 2 boys.
 
 I have a technical course in Industrial Mechanics, an area that I think is very cool...  
-I'm currently majoring in **Analysis and Systems Development** at **[ELO College]()**,   
+I'm currently majoring in **Analysis and Systems Development** at **[ELO College](https://faculdadeelo.com.br)**,   
 I'm a programming lover, and I have a special interest in the field of artificial intelligence and I intend to make it my job.
 
 
