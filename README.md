@@ -64,6 +64,8 @@ at <a href="https://faculdadeelo.com.br/"> Elo colege </a> I'm studying the subj
 ---
 * ### 🔭 I’m currently working on ...
 
+I'm currently working in repository <a href="https://github.com/JhonySmithSilva/BootCamp_everis-New-Talents-2-Java"> BootCamp_everis-New-Talents-2-Java </a>
+
 <!--
 ---
 * ### 🤔 I’m looking for help with ... 
