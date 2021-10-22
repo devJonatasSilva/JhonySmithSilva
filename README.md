@@ -35,7 +35,7 @@ I'm a programming lover, and I have a special interest in the field of artificia
 project name: <a href="https://github.com/travelerMap">Treveler Map</a>\
 criation date: 27/08/2021\
 description:\
-    this is a project initially for academic purposes and is being used in all subjects. carried out by a team of 5 collaborators where they are students of the Analyzing and Systems Development course at the <a href="https://faculdadeelo.com.br/"> ELO colege </a>.
+    this is a project initially for academic purposes and is being used in all subjects. carried out by a team of 5 collaborators where they are students of the Analyzing and Systems Development course at the <a href="https://faculdadeelo.com.br/"> ELO college </a>.
 
 contributors:\
 <a href="https://github.com/JhonySmithSilva">Jhony Smith</a> \
@@ -53,7 +53,7 @@ I'm currently participating in bootcamp:
 still for <a href="https://web.digitalinnovation.one/home"> Digital Innovation One </a> I'm participating in the course:
 * <a href="https://web.digitalinnovation.one/course/trabalhando-com-banco-de-dados-utilizando-jdbc-e-jpa/learning/36caf662-304d-444b-978d-958d79bb5a9a/"> Working with database using JDBC and JPA </a>
 
-at <a href="https://faculdadeelo.com.br/"> Elo colege </a> I'm studying the subjects of:
+at <a href="https://faculdadeelo.com.br/"> Elo college </a> I'm studying the subjects of:
 * integrative project
 * database
 * Software Engineering
