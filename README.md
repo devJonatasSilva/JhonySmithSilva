@@ -63,6 +63,8 @@ at <a href="https://faculdadeelo.com.br/"> Elo colege </a> I'm studying the subj
 
 ---
 * ### 🔭 I’m currently working on ...
+
+<!--
 ---
 * ### 🤔 I’m looking for help with ... 
 ---
@@ -73,6 +75,9 @@ at <a href="https://faculdadeelo.com.br/"> Elo colege </a> I'm studying the subj
 * ### 😄 Pronouns: ...
 ---
 * ### ⚡ Fun fact: ... 
+
+-->
+
 ---
 * ### more ###  
 
