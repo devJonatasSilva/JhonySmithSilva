@@ -48,8 +48,7 @@ contributors:\
 * ### 🌱 I’m currently learning ...
 
 I'm currently participating in bootcamp:
-* everis New Talents #2 Java by <a href="https://web.digitalinnovation.one/home"> Digital Innovatio One </a> (
-concluded )
+* HTML Web Developer by <a href="https://web.digitalinnovation.one/track/html-web-developer"> Digital Innovatio One </a> 
 
 still for <a href="https://web.digitalinnovation.one/home"> Digital Innovation One </a> I'm participating in the course:
 * <a href="https://web.digitalinnovation.one/course/trabalhando-com-banco-de-dados-utilizando-jdbc-e-jpa/learning/36caf662-304d-444b-978d-958d79bb5a9a/"> Working with database using JDBC and JPA </a>
@@ -65,7 +64,7 @@ at <a href="https://faculdadeelo.com.br/"> Elo college </a> I'm studying the sub
 ---
 * ### 🔭 I’m currently working on ...
 
-I'm currently working in repository <a href="https://github.com/JhonySmithSilva/BootCamp_everis-New-Talents-2-Java"> BootCamp_everis-New-Talents-2-Java </a>
+
 
 ---
 * ### 📫 How to reach me: ...
