@@ -51,7 +51,7 @@ I'm currently participating in bootcamp:
 * HTML Web Developer by <a href="https://web.digitalinnovation.one/track/html-web-developer"> Digital Innovatio One </a> 
 
 still for <a href="https://web.digitalinnovation.one/home"> Digital Innovation One </a> I'm participating in the course:
-* <a href="https://web.digitalinnovation.one/course/trabalhando-com-banco-de-dados-utilizando-jdbc-e-jpa/learning/36caf662-304d-444b-978d-958d79bb5a9a/"> Working with database using JDBC and JPA </a>
+* <a href="https://web.digitalinnovation.one/course/crie-paginas-responsivas-na-web-utilizando-um-poderoso-framework/learning/d5695916-44d4-4d47-9db4-0bc829264835?back=/track/html-web-developer"> Building web pages with Bootstrap </a>
 
 at <a href="https://faculdadeelo.com.br/"> Elo college </a> I'm studying the subjects of:
 * integrative project
